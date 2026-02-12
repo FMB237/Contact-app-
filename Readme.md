@@ -11,7 +11,8 @@ So let install it using tje command **pip install flask and some other package l
 1. Flask is the basics package framework we will install for our app
 2. Flask-Sqlachemy will permit us to handle the database of our app using Sqlite 
 3. flask-cors will permit us to handle cross requests for our app.
-4. 
+
+
 ---
 **We will create 2 folders one for the backend and the other one for the frontend**
 This app is the contact list app so it is mainly CRUD 
