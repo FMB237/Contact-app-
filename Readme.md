@@ -47,3 +47,20 @@ Move on to our backend folder and create some files
 3. Then create a function which will convert this data into json to be use after for our frontend
 
 **Third move to main.py for our routes and mode app configs**
+Let Build a Crud app so we will need some basics opearions and end routes for our app  which is Creation,Updataing,reading and Delecting.
+In other  to create a new user we need the following pieces of informations which are :
+1. first_name
+2. last_name 
+3. email of the person
+So when a request is been submitted to the endpoint we will submit a post Create because the are mainly used to create
+We have many other types of requests depending on what we wanna do 
+The Get request are the request made to access something we alos have a PATCH request which is mainly used to Update our informations
+So from this illustration our request from our Frontend will be Send to the backend so that it reponse to it.
+You should also takes into consideration that the Repsonse can have a status 
+Like the traditional 404 error which means not found or our 400 response meaning fails or when the 200 responsev for good 
+So all this is the structure for building an API
+
+---
+The Api is now build
+
+**Fouth move building our Frontend**
