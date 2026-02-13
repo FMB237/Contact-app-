@@ -18,7 +18,7 @@ So let install it using tje command **pip install flask and some other package l
 This app is the contact list app so it is mainly CRUD 
 The Folder call Backend is where all the backend of our is going to live.
 The folder with name frontend will whole all our frontend code.
----
+
 For the Frontend we will install React + vite
 For that we need to ensure that nodejs is been install on our machine using the command **node -v && npm -v** into our terminal if not install them 
 For Linux apt distos need the command **sudo apt install nodejs npm** this will install and LTS version of nodejs that  will be used for our project building 
@@ -26,7 +26,7 @@ Then we will create a new project with using the command **npm create vite@lates
 This will create a simple react+vite project into a folder know as frontend for the Frontend of our app.
 Then we will enter inside the fronend folder and used the command npm install in other to install all the dependencies we need for working with our app.
 Then run our project with the command **npm run dev**
----
+
 ---
 
 **Step2:Building the Backend**
